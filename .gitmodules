@@ -1,0 +1,9 @@
+[submodule "KiCad_Files/poker_pi/ext_lib/kicad_lib_tmk"]
+	path = KiCad_Files/poker_pi/ext_lib/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "KiCad_Files/poker_pi/ext_lib/keyboard_parts.pretty"]
+	path = KiCad_Files/poker_pi/ext_lib/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
+[submodule "KiCad_Files/poker_pi/ext_lib/keebs.pretty"]
+	path = KiCad_Files/poker_pi/ext_lib/keebs.pretty
+	url = https://github.com/egladman/keebs.pretty
